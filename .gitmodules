@@ -1,0 +1,9 @@
+[submodule "ADF"]
+	path = ADF
+	url = git@github.com:NorESMhub/ADF.git
+[submodule "xclm"]
+	path = xesmf_clm_fates_diagnostic
+	url = git@github.com:NorESMhub/xesmf_clm_fates_diagnostic.git
+[submodule "ILAMB"]
+	path = ILAMB
+	url = git@github.com:NorESMhub/ILAMB.git
