@@ -5,5 +5,5 @@
 	path = ILAMB
 	url = git@github.com:NorESMhub/ILAMB.git
 [submodule "XCLM"]
-	path = xclm
+	path = XCLM
 	url = git@github.com:NorESMhub/xesmf_clm_fates_diagnostic.git
