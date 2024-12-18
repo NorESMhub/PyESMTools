@@ -2,7 +2,7 @@
 	path = ADF
 	url = git@github.com:NorESMhub/ADF.git
 [submodule "xclm"]
-	path = xesmf_clm_fates_diagnostic
+	path = xclm
 	url = git@github.com:NorESMhub/xesmf_clm_fates_diagnostic.git
 [submodule "ILAMB"]
 	path = ILAMB
